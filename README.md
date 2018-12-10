@@ -239,7 +239,7 @@ Places
 | :kr: `:kr:` | :cn: `:cn:` | :us: `:us:` |
 | :fr: `:fr:` | :es: `:es:` | :it: `:it:` |
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
-| :de: `:de:` |
+| :de: `:de:` | :in: `:in:` | :br: `:br:` |
 
 Symbols
 
