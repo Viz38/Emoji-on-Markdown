@@ -1,4 +1,4 @@
-People
+This is a complete list of all emojis available in Markdown
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
